@@ -1,0 +1,44 @@
+[
+    {
+    "podcastName":"Alexa Stop",
+    "authors":"Robert Belgrave & Jim Bowes",
+    "episodes":"22 episodes",
+    "img":"assets/alexa.JPG",
+    "description":"Two technology CEOs - Jim Bowes and Robert Belgrave - discuss how technology is changing our lives, joined every month by a special guest from the industry. Supported by D/SRUPTION Magazine."
+    
+},
+{
+    "podcastName":"Wireframe",
+    "authors":"Adobe / Gimlet Creative",
+    "episodes":"9 episodes",
+    "img":"assets/wireframe.JPG",
+    "description":"A podcast about the stories behind interaction design. For UX/UI  designers, and the design curious. Hosted by Adobe principle designer Khoi Vinh. Brought to you by Adobe and Gimlet Creative."
+    
+},
+{
+    "podcastName":"Design Review",
+    "authors":"Design Review",
+    "episodes":"59 episodes",
+    "img":"assets/designReview.JPG",
+    "description":"No chit-chat, just focused in-depth discussions about design topics that matter. Jonathan Shariat and Chris Liu are your hosts and bring to the table passion and years of experience. "
+    
+},
+{
+    "podcastName":"Syntax - Tasty Web Development Treats",
+    "authors":"Wes Bos & Scott Tolinski - Full Stack Javascript and Web Developers",
+    "episodes":"259 episodes",
+    "img":"assets/synTax.JPG",
+    "description":"Wes Boss and Scott Tolinski are tow full stack web developers who like to breakdown complex topics and make them easy to understand."
+    
+},
+{
+    "podcastName":"The ChangeLog",
+    "authors":"The Changelog Media",
+    "episodes":"355 episodes",
+    "img":"assets/changeLog.JPG",
+    "description":"Conversations with the leaders, hackers and innovators of software development. Hosts Adam Stacoviak and Jerod Santo face their imposter syndrome so you don't have to . Expect in-depth interviews with..."
+    
+}
+
+
+]

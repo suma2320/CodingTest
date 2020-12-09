@@ -1,0 +1,39 @@
+<div id="summaryContainer" >
+<div id = "summary" *ngFor="let response of podcastResponse; index as i">
+    <div id="summaryCount">
+            <img src="assets/circle.svg" class="circle-img"/> <div class="centered"> {{i + 1}}</div>
+    </div>
+    <div id="summaryContent">
+        <img id="podcastImage" src="{{response.img}}">
+        <div id="detailsAndDescription">
+                <div class="summary-details">
+                        <div id="podcastName">
+                                {{response.podcastName}}
+                        </div>
+                        <div id="podcastAuthors">
+                            by <span class="authorNames">{{response.authors}}</span>
+                        </div>
+                    <div id="episodes">
+                        {{response.episodes}}
+                    </div>
+                    <div id="footer">
+                        <div id="text">
+                            <img src="assets/apple.svg"/><div class="value">ITUNES</div>
+                        </div>
+                        <div id="text">
+                                <img src="assets/link.svg"/><div class="value">WEB</div>
+                            </div>
+                            <div id="text">
+                                    <img src="assets/rss.svg"/><div class="value">RSS</div>
+                                </div>
+                    </div>
+                    </div>
+                    <div id=summaryDescription>
+                        {{response.description}}
+                    </div>
+        </div>
+
+       
+    </div>
+</div>
+</div>

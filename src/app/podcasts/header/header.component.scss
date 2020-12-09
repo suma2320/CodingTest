@@ -1,0 +1,37 @@
+.header{
+    padding:5px 0px 5px 5px;
+    .pi-align-justify{
+        font-size: 30px;
+     }
+}
+$color1: #FF0066;
+$color2: #6600CC;
+#sub-header{
+    .rectangle {
+        display: flex;
+        height: 100px;
+        width: 100%;
+        background-color: #5a3268;
+        justify-content: center;
+        align-items: center;
+        .header-text{
+            font-size: 40px;
+            color:white;
+            font-family: monospace;
+            font-weight: bold;
+            .colored-text{
+                color: mix($color1, $color2);
+            }
+        }
+        .circle-img{
+            width:100px;
+            position: absolute;
+            right:26%;
+        }
+        .triangle-img {
+            width:140px;
+            position: absolute;
+            right:25%;
+        }
+      }
+}
